@@ -1,5 +1,8 @@
 package Arrays;
 
+/*
+Program to find the second largest element of the given input array
+* */
 public class SecondLargestElement {
     public static void main(String[] args){
         int[] arr = {1,1,1,1,0};
